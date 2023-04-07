@@ -45,6 +45,7 @@ body{
     padding-top:10px ;
     padding-bottom:10px;
 }
+
 #nav-color{
     font-size: 65px;
     font-weight:500;
@@ -92,7 +93,7 @@ section{
 
  /*banner*/
  .banner{
-    background-image: url(./images/bg.jpg);
+    background-image: url(./images/banner.jpg);
     width: 100%;
     background-size:cover ;
     background-attachment: fixed;
@@ -141,3 +142,7 @@ section{
 }
 
 /*media*/
+
+@media (max-width: 767px) {
+  
+  }
